@@ -1,5 +1,6 @@
 const googleDatabase = [
   "cats.com",
+  "dogs.com",
   "souprecipes.com",
   "flower.com",
   "animals.com",
