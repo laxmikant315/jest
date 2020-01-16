@@ -6,7 +6,8 @@ const googleDatabase = [
   "catpictures.com",
   "myfavoritecats.com",
   "myfavoritecats2.com",
-  "myfavoritecats3.com"
+  "myfavoritecats3.com",
+  "myfavoritecats4.com"
 ];
 
 const googleSearch = (db, serachInput) => {
